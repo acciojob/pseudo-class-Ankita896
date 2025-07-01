@@ -4,13 +4,13 @@
 }
 
 #container::before {
-    content: "Before Text"; /* Change this to your desired text */
+    content: "Before Element"; /* Change this to your desired text */
     color: rgb(255, 0, 0);
     font-size: 20px;
 }
 
 #container::after {
-    content: "After Text"; /* Change this to your desired text */
+    content: "After Element"; /* Change this to your desired text */
     color: rgb(255, 0, 0);
     font-size: 20px;
 }
