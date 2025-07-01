@@ -5,12 +5,12 @@
 
 #container::before {
     content: "Before Text"; /* Change this to your desired text */
-    color: #f00;
+    color: rgb(255, 0, 0);
     font-size: 20px;
 }
 
 #container::after {
     content: "After Text"; /* Change this to your desired text */
-    color: #f00;
+    color: rgb(255, 0, 0);
     font-size: 20px;
 }
